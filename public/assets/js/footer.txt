@@ -1,0 +1,143 @@
+<div class="section">
+        <div class="sec-last">
+          <img class="img-xl" src="../assets/img/images/vachanavayal-icon.png" alt="">
+          <div class="version">
+            <p>Vachanavayal-ii</p>
+            <p>v1.5.0</p>
+          </div>
+        </div>
+        <div class="row">
+          
+          <div class="sec-first">
+            <li class="head">
+              <div>
+                <i class="bx bx-book-content"></i>
+                <p>Publications</p>
+              </div>
+              <i class="bx bx-plus footer-drawer"></i>
+            </li>
+            <div class="link">
+              <li>
+                <i class="bx bx-store"></i>
+                <a  href="">Store</a>     
+              </li>
+              <li>
+                <i class="bx bx-book-alt"></i>
+                <a  href="">books</a>
+              </li>
+              <li>
+                <i class="bx bx-cart"></i>
+                <a  href="">buy now</a>
+              </li>
+            </div>
+          </div>
+
+          <div class="sec-first">
+            <li class="head">
+              <div>
+                <i class="bx bx-planet"></i>
+                <p>Quiz app</p>
+              </div>
+              <i class="bx bx-plus footer-drawer"></i>
+            </li>
+            <div class="link">
+              <li>
+                <i class="bx bx-trophy"></i>
+                <a  href="">Results</a>     
+              </li>
+              <li>
+                <i class="bx bx-planet"></i>
+                <a  href="">Quizzes</a>
+              </li>
+              <li>
+                <i class='bx bxl-play-store' ></i>
+                <a  href="">Apk Download</a>
+              </li>
+              <li>
+                <i class='bx bx-planet' ></i>
+                <a  href="">Official Website</a>
+              </li>
+            </div>
+          </div>
+
+          <div class="sec-first">
+            <li class="head">
+              <div>
+                  <i class='bx bx-book-open' ></i>
+                  <p>Vachanavayal App</p>
+              </div>
+              <i class="bx bx-plus footer-drawer"></i>
+            </li>
+            <div class="link">
+              <li>
+                <i class='bx bx-book-open' ></i>
+                <a  href="">Logos Club</a>     
+              </li>
+              <li>
+                <i class='bx bx-book-open' ></i>
+                <a  href="">E-Books</a>
+              </li>
+              <li>
+                <i class='bx bxl-play-store' ></i>
+                <a  href="">Vachanavayal App</a>
+              </li>
+              <li>
+                <i class='bx bx-planet' ></i>
+                <a  href="">Official Website</a>
+              </li>
+              <li>
+                <i class='bx bxl-youtube' ></i>
+                <a  href="">YouTube Channel</a>
+              </li>
+            </div>
+          </div>
+
+          <div class="sec-first">
+            <li class="head">
+              <div>
+                <i class='bx bx-share' ></i>
+                <p>Social</p>
+              </div>
+              <i class="bx bx-plus footer-drawer"></i>
+            </li>
+            <div class="link">
+              <li>
+                <i class='bx bxl-youtube' ></i>
+                <a  href="">YouTube</a>     
+              </li>
+              <li>
+                <i class='bx bxl-facebook-circle' ></i>
+                <a  href="">Facebook</a>
+              </li>
+              <li>
+                <i class='bx bxl-whatsapp' ></i>
+                <a  href="">WhatsApp</a>
+              </li>
+              <li>
+                <i class='bx bxl-telegram' ></i>
+                <a  href="">Telegram</a>
+              </li>
+              <li>
+                <i class='bx bxl-instagram' ></i>
+                <a disabled aria-disabled="true"   href="">Instagram</a>
+              </li>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row">
+          <div class="sec-last">
+            <p>
+              Copyright © <script>
+                var year = new Date().getFullYear();
+  
+                document.write(year)
+              </script> All rights reserved. vachanavayal@gmail.com
+            </p>
+            <p>
+              Designed and Managed by: <a  href="">Abin Antony</a>
+            </p>
+          </div>
+        </div>
+      </div>
